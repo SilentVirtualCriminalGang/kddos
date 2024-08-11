@@ -20,12 +20,28 @@ colorama.init()
 banner=Fore.MAGENTA+'''
    
 
-██   ██  █████  ███████ ██ 
-██  ██  ██   ██    ███  ██ 
-█████   ███████   ███   ██ 
-██  ██  ██   ██  ███    ██ 
-██   ██ ██   ██ ███████ ██ 
-                           
+
+                                                                                                                                                                                 
+                                                                                                                                                                                 
+
+                                                                                  
+KKKKKKKKK    KKKKKKK               AAA               ZZZZZZZZZZZZZZZZZZZIIIIIIIIII
+K:::::::K    K:::::K              A:::A              Z:::::::::::::::::ZI::::::::I
+K:::::::K    K:::::K             A:::::A             Z:::::::::::::::::ZI::::::::I
+K:::::::K   K::::::K            A:::::::A            Z:::ZZZZZZZZ:::::Z II::::::II
+KK::::::K  K:::::KKK           A:::::::::A           ZZZZZ     Z:::::Z    I::::I  
+  K:::::K K:::::K             A:::::A:::::A                  Z:::::Z      I::::I  
+  K::::::K:::::K             A:::::A A:::::A                Z:::::Z       I::::I  
+  K:::::::::::K             A:::::A   A:::::A              Z:::::Z        I::::I  
+  K:::::::::::K            A:::::A     A:::::A            Z:::::Z         I::::I  
+  K::::::K:::::K          A:::::AAAAAAAAA:::::A          Z:::::Z          I::::I  
+  K:::::K K:::::K        A:::::::::::::::::::::A        Z:::::Z           I::::I  
+KK::::::K  K:::::KKK    A:::::AAAAAAAAAAAAA:::::A    ZZZ:::::Z     ZZZZZ  I::::I  
+K:::::::K   K::::::K   A:::::A             A:::::A   Z::::::ZZZZZZZZ:::ZII::::::II
+K:::::::K    K:::::K  A:::::A               A:::::A  Z:::::::::::::::::ZI::::::::I
+K:::::::K    K:::::K A:::::A                 A:::::A Z:::::::::::::::::ZI::::::::I
+KKKKKKKKK    KKKKKKKAAAAAAA                   AAAAAAAZZZZZZZZZZZZZZZZZZZIIIIIIIIII
+                                                                                  
 '''+Fore.RESET
 credit=(Fore.CYAN+
 ''' 
