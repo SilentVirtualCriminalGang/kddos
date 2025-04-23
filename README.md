@@ -5,7 +5,7 @@
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-SilentVirtualCriminalGang-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/8801873561165)
 
 
-$ KAZI HERE :)
+ KAZI HERE :)
 
 
 
