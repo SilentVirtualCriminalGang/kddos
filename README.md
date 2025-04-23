@@ -4,15 +4,15 @@
 [![Instagram](https://img.shields.io/badge/Instagram-who_am_i_x00-hotpink?style=flat-square&logo=instagram)](https://instagram.com/who_am_i_x00)<br>
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-SilentVirtualCriminalGang-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/8801873561165)
 
-'''
+
 					KAZI HERE :)
-'''
+
 
 
 
 # DDOS TOOL 
-'''
-$ Clone this git
-$ cd kddos
-$ python kddos.py
-'''
+
+$ Clone this git <br>
+$ cd kddos <br>
+$ python kddos.py <br>
+
